@@ -1,1 +1,1 @@
-# edX_Python_DS
+# edX_UCSD
